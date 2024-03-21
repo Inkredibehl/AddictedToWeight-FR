@@ -1,0 +1,6 @@
+UI_FR = {
+	UI_P4AddictedToWeight_Options_ShowHumanIcon_Name = "Afficher l'icône humaine",
+	UI_P4AddictedToWeight_Options_ShowHumanIcon_Tooltip = "Sélectionnez la case si vous voulez afficher l'icône humaine.",
+	UI_P4AddictedToWeight_Options_WeightChangeNotification_Name = "Notification de Changement de Poids",
+	UI_P4AddictedToWeight_Options_WeightChangeNotification_Tooltip = "Sélectionnez la case si vous voulez être notifié par une alerte lorsque le poids change.",
+}
